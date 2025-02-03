@@ -2,11 +2,12 @@
 
 
 <h1 align="center">Hello 👋, I'm Ishita !! </h1>
-<h3 align="center">Code it...</h3>
+<h3 align="center">Live it or Code it!</h3>
 
 -  Interested in unraveling new stuffs.
-- 📕 Currently learning NodeJs 
+- 📕 Currently learning Machine Learning @NITK 
 - 🌱 Love for science and innovation.
-- 📫 Reach me at **ishivyas28@gmail.com**
-- 🌌 Cosmos and its stoic secrets.
+- 📫 Reach me at **vyasishita2002@gmail.com**
+- 📫 Reach me at **https://www.linkedin.com/in/ishita-vyas-37aa55210/**
+- Enthusiast to work on Software Development and Deep Learning Projects!!
 
